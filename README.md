@@ -35,6 +35,8 @@ The project involves refining two dashboards that were previously created in Tab
 
 ## Dashboard Highlights
 
+<img width="1494" alt="image" src="https://github.com/user-attachments/assets/6402d3ba-3773-4521-8ee5-70db6999e733">
+
 ### 1. **Revenue Analysis Dashboard**
    - **Total Monthly Cash Inflows**: A line chart showing the trend of monthly revenue over time, allowing users to quickly identify periods of growth and decline.
    - **Total Revenue by Location**: A bar chart breaking down total revenue by geographic region (APAC, EMEA, USA), providing insights into regional performance.
